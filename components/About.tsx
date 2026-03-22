@@ -97,7 +97,7 @@ export default function About() {
 
             <div className="animate-on-scroll pt-2">
               <a
-                href="/resume.pdf"
+                href="/Anandu_Pillai_Resume.pdf"
                 className="inline-flex items-center gap-2 px-6 py-3 border border-[#7C3AED]/50 hover:border-[#7C3AED] text-[#A78BFA] hover:text-white hover:bg-[#7C3AED] rounded-xl font-semibold transition-all duration-200 text-sm"
                 style={{ fontFamily: 'Space Grotesk, sans-serif' }}
               >
